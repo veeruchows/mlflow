@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/f8f71869620f4bc9b34673880f3d7cc0/artifacts
+end_time: 1735755814860
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: f8f71869620f4bc9b34673880f3d7cc0
+run_name: redolent-pug-398
+run_uuid: f8f71869620f4bc9b34673880f3d7cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755814733
+status: 3
+tags: []
+user_id: singu

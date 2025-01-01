@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/e008466a9e27454e972a546e67d5c6f0/artifacts
+end_time: 1735755815528
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: e008466a9e27454e972a546e67d5c6f0
+run_name: unequaled-rat-716
+run_uuid: e008466a9e27454e972a546e67d5c6f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755815423
+status: 3
+tags: []
+user_id: singu

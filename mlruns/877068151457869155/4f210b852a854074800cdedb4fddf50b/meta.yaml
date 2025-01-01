@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/4f210b852a854074800cdedb4fddf50b/artifacts
+end_time: 1735755814717
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 4f210b852a854074800cdedb4fddf50b
+run_name: delicate-cat-668
+run_uuid: 4f210b852a854074800cdedb4fddf50b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755814590
+status: 3
+tags: []
+user_id: singu

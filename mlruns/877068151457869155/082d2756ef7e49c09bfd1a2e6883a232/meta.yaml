@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/082d2756ef7e49c09bfd1a2e6883a232/artifacts
+end_time: 1735755814444
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 082d2756ef7e49c09bfd1a2e6883a232
+run_name: placid-ram-23
+run_uuid: 082d2756ef7e49c09bfd1a2e6883a232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755814318
+status: 3
+tags: []
+user_id: singu

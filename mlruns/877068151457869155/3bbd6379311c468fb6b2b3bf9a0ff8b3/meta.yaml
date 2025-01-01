@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/3bbd6379311c468fb6b2b3bf9a0ff8b3/artifacts
+end_time: 1735755826523
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 3bbd6379311c468fb6b2b3bf9a0ff8b3
+run_name: rumbling-elk-997
+run_uuid: 3bbd6379311c468fb6b2b3bf9a0ff8b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755806388
+status: 3
+tags: []
+user_id: singu

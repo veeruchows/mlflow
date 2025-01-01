@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/d34a3e6ca5374201a306ff182d383889/artifacts
+end_time: 1735755815283
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: d34a3e6ca5374201a306ff182d383889
+run_name: fearless-whale-963
+run_uuid: d34a3e6ca5374201a306ff182d383889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755815161
+status: 3
+tags: []
+user_id: singu

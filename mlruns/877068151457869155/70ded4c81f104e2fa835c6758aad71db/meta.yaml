@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/70ded4c81f104e2fa835c6758aad71db/artifacts
+end_time: 1735755815145
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 70ded4c81f104e2fa835c6758aad71db
+run_name: hilarious-kite-884
+run_uuid: 70ded4c81f104e2fa835c6758aad71db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755815018
+status: 3
+tags: []
+user_id: singu

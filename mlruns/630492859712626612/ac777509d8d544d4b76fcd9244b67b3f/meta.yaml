@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630492859712626612/ac777509d8d544d4b76fcd9244b67b3f/artifacts
+end_time: 1735751970494
+entry_point_name: ''
+experiment_id: '630492859712626612'
+lifecycle_stage: active
+run_id: ac777509d8d544d4b76fcd9244b67b3f
+run_name: charming-deer-459
+run_uuid: ac777509d8d544d4b76fcd9244b67b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735751957767
+status: 3
+tags: []
+user_id: singu

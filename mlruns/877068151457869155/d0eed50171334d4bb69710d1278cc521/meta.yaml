@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/d0eed50171334d4bb69710d1278cc521/artifacts
+end_time: 1735755814298
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: d0eed50171334d4bb69710d1278cc521
+run_name: enthused-mole-523
+run_uuid: d0eed50171334d4bb69710d1278cc521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755814180
+status: 3
+tags: []
+user_id: singu

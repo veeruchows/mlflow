@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/2164ed3c39384d93a9ab11565bfdace5/artifacts
+end_time: 1735755815002
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 2164ed3c39384d93a9ab11565bfdace5
+run_name: clumsy-asp-952
+run_uuid: 2164ed3c39384d93a9ab11565bfdace5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755814877
+status: 3
+tags: []
+user_id: singu

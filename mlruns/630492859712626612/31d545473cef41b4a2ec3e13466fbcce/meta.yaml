@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/630492859712626612/31d545473cef41b4a2ec3e13466fbcce/artifacts
+end_time: 1735752084857
+entry_point_name: ''
+experiment_id: '630492859712626612'
+lifecycle_stage: active
+run_id: 31d545473cef41b4a2ec3e13466fbcce
+run_name: defiant-cat-593
+run_uuid: 31d545473cef41b4a2ec3e13466fbcce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735752078060
+status: 3
+tags: []
+user_id: singu

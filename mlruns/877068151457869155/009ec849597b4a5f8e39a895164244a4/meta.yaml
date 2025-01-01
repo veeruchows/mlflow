@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/singu/mlflow/mlruns/877068151457869155/009ec849597b4a5f8e39a895164244a4/artifacts
+end_time: 1735755815408
+entry_point_name: ''
+experiment_id: '877068151457869155'
+lifecycle_stage: active
+run_id: 009ec849597b4a5f8e39a895164244a4
+run_name: unruly-dolphin-404
+run_uuid: 009ec849597b4a5f8e39a895164244a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735755815298
+status: 3
+tags: []
+user_id: singu
